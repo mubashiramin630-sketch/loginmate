@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#90CAF9</color>
+    <color name="colorPrimaryDark">#42A5F5</color>
+    <color name="colorAccent">#1976D2</color>
+    <color name="primary_blue">#90CAF9</color>
+    <color name="background_light">#121212</color>
+    <color name="card_background">#1E1E1E</color>
+    <color name="text_dark">#E0E0E0</color>
+    <color name="text_muted">#B0BEC5</color>
+    <color name="logout_red">#EF5350</color>
+    <color name="black">#FFFFFFFF</color>
+    <color name="white">#FF000000</color>
+</resources>
